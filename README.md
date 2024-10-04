@@ -1,4 +1,4 @@
-# bash
+# Comandos y Scripts
 Repositorio de scripts y comandos en bash
 
 **Comandos**
